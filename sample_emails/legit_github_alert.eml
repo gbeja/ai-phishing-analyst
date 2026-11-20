@@ -1,0 +1,18 @@
+Return-Path: <noreply@github.com>
+From: GitHub <noreply@github.com>
+To: developer@company.com
+Subject: [GitHub] A new personal access token was added to your account
+Date: Wed, 18 Nov 2026 18:30:00 +0000
+Authentication-Results: ://company.com; spf=pass (github.com); dkim=pass; dmarc=pass
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+
+Hey developer,
+
+A personal access token (fine-grained) named CI-Deploy-Key was recently added to your GitHub account.
+
+If you did not create this token, please visit your security settings immediately to revoke it:
+https://github.com
+
+Thanks,
+The GitHub Team

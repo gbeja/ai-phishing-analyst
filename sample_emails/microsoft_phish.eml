@@ -1,0 +1,22 @@
+Return-Path: <bounce-8841@promo-mailer-net.ru>
+From: "Microsoft 365 Security" <no-reply@micros0ft-security-alerts.com>
+Reply-To: support-desk@credential-harvest.xyz
+To: employee@company.com
+Subject: URGENT: Your Microsoft 365 Password Expires in 2 Hours
+Date: Wed, 18 Nov 2026 14:22:10 +0000
+Authentication-Results: ://company.com; spf=fail (sender IP is 185.220.101.42); dkim=none; dmarc=fail
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+
+Dear User,
+
+Our automated security system detected that your corporate Microsoft 365 password is scheduled to expire today at 5:00 PM. 
+
+To prevent immediate lockout from Outlook and Teams, you must keep your current credentials active by verifying your account below:
+
+http://wicar.org
+
+Failure to verify within 2 hours will result in mandatory IT account suspension.
+
+Thank you,
+Microsoft 365 IT Administration
